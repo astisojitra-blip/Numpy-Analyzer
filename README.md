@@ -46,6 +46,7 @@ The project follows a simple, single-file Python structure. A suggested folder l
 NumPy Analyzer/
 ├── main.py
 └── README.md
+└── output.png
 ```
 
 - **main.py:** Contains the `DataAnalytics` class, array operations, interactive submenus, and the main application loop.
